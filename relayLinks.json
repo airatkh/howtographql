@@ -1,0 +1,170 @@
+{
+  "data": {
+    "relayLinks": {
+      "pageInfo": {
+        "hasPreviousPage": false,
+        "startCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjEw",
+        "hasNextPage": false
+      },
+      "edges": [
+        {
+          "cursor": "YXJyYXljb25uZWN0aW9uOjA=",
+          "node": {
+            "id": "TGlua05vZGU6MQ==",
+            "url": "https://www.howtographql.com/",
+            "description": "The Fullstack Tutorial for GraphQL",
+            "votes": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "Vm90ZU5vZGU6MQ==",
+                    "user": {
+                      "username": "airat"
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "Vm90ZU5vZGU6Mg==",
+                    "user": {
+                      "username": "airat"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "cursor": "YXJyYXljb25uZWN0aW9uOjE=",
+          "node": {
+            "id": "TGlua05vZGU6Mg==",
+            "url": "https://twitter.com/jonatasbaldin/",
+            "description": "The Jonatas Baldin Twitter",
+            "votes": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "cursor": "YXJyYXljb25uZWN0aW9uOjI=",
+          "node": {
+            "id": "TGlua05vZGU6Mw==",
+            "url": "url link fake1",
+            "description": "fake description1",
+            "votes": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "cursor": "YXJyYXljb25uZWN0aW9uOjM=",
+          "node": {
+            "id": "TGlua05vZGU6NA==",
+            "url": "url link fake2",
+            "description": "fake description2",
+            "votes": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "cursor": "YXJyYXljb25uZWN0aW9uOjQ=",
+          "node": {
+            "id": "TGlua05vZGU6NQ==",
+            "url": "test url 3",
+            "description": "test description 3",
+            "votes": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "cursor": "YXJyYXljb25uZWN0aW9uOjU=",
+          "node": {
+            "id": "TGlua05vZGU6Ng==",
+            "url": "test url 3",
+            "description": "test description 3",
+            "votes": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "cursor": "YXJyYXljb25uZWN0aW9uOjY=",
+          "node": {
+            "id": "TGlua05vZGU6Nw==",
+            "url": "test url 3",
+            "description": "test description 3",
+            "votes": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "cursor": "YXJyYXljb25uZWN0aW9uOjc=",
+          "node": {
+            "id": "TGlua05vZGU6OA==",
+            "url": "test url 3",
+            "description": "test description 3",
+            "votes": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "Vm90ZU5vZGU6Mw==",
+                    "user": {
+                      "username": "airat"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "cursor": "YXJyYXljb25uZWN0aW9uOjg=",
+          "node": {
+            "id": "TGlua05vZGU6OQ==",
+            "url": "test url 3",
+            "description": "test description 3",
+            "votes": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "cursor": "YXJyYXljb25uZWN0aW9uOjk=",
+          "node": {
+            "id": "TGlua05vZGU6MTA=",
+            "url": "test url 3",
+            "description": "test description 3",
+            "votes": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "Vm90ZU5vZGU6NA==",
+                    "user": {
+                      "username": "airat"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "cursor": "YXJyYXljb25uZWN0aW9uOjEw",
+          "node": {
+            "id": "TGlua05vZGU6MTE=",
+            "url": "test url 3",
+            "description": "test description 3",
+            "votes": {
+              "edges": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}
